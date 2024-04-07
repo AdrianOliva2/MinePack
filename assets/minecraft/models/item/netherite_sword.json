@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "minecraft:item/netherite_sword"
   },
@@ -8,7 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minepack/desordenadora"
+      "model": "minecrafteros:minepack/desordenadora"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/netherite_sword"
     }
   ]
 }

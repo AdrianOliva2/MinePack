@@ -1,11 +1,10 @@
 {
-  "parent": "minecraft:item/generated",
   "textures": {
-    "0": "minecraft:minepack/guard_texture",
-    "1": "minecraft:minepack/top_sword_texture",
-    "2": "minecraft:minepack/bottom_sword_texture",
-    "3": "minecraft:minepack/hilt_texture",
-    "particle": "minecraft:minepack/guard_texture"
+    "0": "minecrafteros:minepack/guard-texture",
+    "1": "minecrafteros:minepack/top-sword-texture",
+    "2": "minecrafteros:minepack/bottom-sword-texture",
+    "3": "minecrafteros:minepack/hilt-texture",
+    "particle": "minecrafteros:minepack/guard-texture"
   },
   "elements": [
     {

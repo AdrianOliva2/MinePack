@@ -1,9 +1,20 @@
 {
   "sources": [
     {
-      "type": "directory",
-      "source": "minepack",
-      "prefix": "minepack/"
+      "type": "single",
+      "resource": "minecrafteros:minepack/guard-texture"
+    },
+    {
+      "type": "single",
+      "resource": "minecrafteros:minepack/bottom-sword-texture"
+    },
+    {
+      "type": "single",
+      "resource": "minecrafteros:minepack/top-sword-texture"
+    },
+    {
+      "type": "single",
+      "resource": "minecrafteros:minepack/hilt-texture"
     }
   ]
 }
