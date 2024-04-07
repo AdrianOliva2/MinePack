@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "if": {
+      "predicate": {
         "custom_model_data": 1
       },
       "model": "minepack/desordenadora"
